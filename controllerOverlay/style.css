@@ -173,18 +173,19 @@ background-position: 0 -70px;
 }
 
 .ds4 .b {
-    background-position: -53px 0;
-    top: 60px;
-    right: 0px;
+    background-position: -49px 0;
+    top: 62px;
+    right: 4px;
 }
 
 .ds4 .x {
-    background-position: -95px 0;
-    top: 60px;
+    background-position: -99px 0;
+    top: 62px;
+	left: 3px;
 }
 
 .ds4 .y {
-    background-position: 50px 0;
+    background-position: 48px 0;
     left: 59px;
 	top: 3px;
 }
