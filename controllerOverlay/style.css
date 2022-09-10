@@ -156,36 +156,37 @@ background-position: 0 -70px;
 
 .ds4 .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 48px;
+    height: 48px;
     background: url(abxy.svg);
 }
 
 .ds4 .button.pressed {
-    background-position-y: 55px;
+    background-position-y: 48px;
     /* margin-top: 5px; */
 }
 
 .ds4 .a {
     background-position: 0 0;
-    bottom: 0;
-    left: 58px;
+    bottom: 2px;
+    left: 61px;
 }
 
 .ds4 .b {
-    background-position: -57px 0;
-    top: 58px;
+    background-position: -53px 0;
+    top: 60px;
     right: 0px;
 }
 
 .ds4 .x {
-    background-position: -113px 0;
-    top: 58px;
+    background-position: -95px 0;
+    top: 60px;
 }
 
 .ds4 .y {
-    background-position: 55px 0;
-    left: 58px;
+    background-position: 50px 0;
+    left: 59px;
+	top: 3px;
 }
 
 .ds4 .sticks {
