@@ -201,6 +201,7 @@ background-position: 0 -70px;
 .ds4 .stick {
     position: absolute;
     background: url(sticks.png);
+	background-size: cover;
     height: 94px;
     width: 94px;
 }
